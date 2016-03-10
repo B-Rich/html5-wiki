@@ -7,4 +7,4 @@ categories: cordova generator-m-ionic
 
 #### Add a local plugin to your project (with generator-m-ionic)
 
-`gulp --cordova 'plugin add com.company.plugin --searchpath ./cordova/ --save'`
+`gulp --cordova 'plugin add ./cordova/com.mwaysolutions.cordova.scannerplugin --save'`
