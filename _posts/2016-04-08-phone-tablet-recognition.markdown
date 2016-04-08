@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Phone / Tablet recognition"
-date:   2016-04-08 14:29:36 +0100
+date:   2016-04-08 08:29:36 +0100
 categories: javascript ionic
 ---
 
